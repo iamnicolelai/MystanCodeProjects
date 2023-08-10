@@ -4,4 +4,4 @@ This repository holds my programming projects done during the period of stanCode
 Watch my *[DEMO VIDEO!](https://www.youtube.com/playlist?app=desktop&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP)*
 
 # Projects Source Codes: #
-* [Baby Names]()
+* [Baby Names](https://github.com/iamnicolelai/MystanCodeProjects/tree/main/SC101Assignment4)
